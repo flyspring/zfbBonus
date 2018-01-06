@@ -1,7 +1,9 @@
 # zfbBonus
 支付宝奖励赚取方法
 demo:
+
 微信扫描二维码
+
 ![Alt text](https://github.com/flyspring/zfbBonus/blob/master/demo_pay_code.png)
 
 
